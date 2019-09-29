@@ -4,33 +4,25 @@ public class Main {
 
     public static void main(String[] args) {
         System.out.println(getLargestPrime(21)); // 7
-        System.out.println(getLargestPrime(2)); // 2
+        System.out.println(getLargestPrime(217)); // 31
+        System.out.println(getLargestPrime(0)); // -1
+        System.out.println(getLargestPrime(45)); // 5
+        System.out.println(getLargestPrime(-1)); // -1
     }
 
     public static int getLargestPrime(int number) {
 
-        for (int i = number; i >= 2; i--) {
+        for (int i = number; i > 2; i--) {
 
-            boolean isPrime = true;
+            boolean isPrime = false;
 
-            for (int j = 2; j < i; j++) {
-                if (i % j == 0) {
-                    isPrime = false;
-                    break;
-                }
+            for (int j = 2; j < number; j++) {
+                isPrime = (number % j == 0);
             }
 
             if (isPrime && number % i == 0) return i;
         }
 
         return -1;
-    }
-
-    public static boolean isPrime(int number) {
-        for (int i = 2; i < number; i++) {
-            if (number % i == 0) return false;
-        }
-
-        return true;
     }
 }
