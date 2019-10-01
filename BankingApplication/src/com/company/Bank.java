@@ -12,9 +12,8 @@ public class Bank {
     }
 
     public boolean addBranch(String branchName) {
-        System.out.println("bhaasdf");
-        if (findBranch(branchName) == null) return false;
-        System.out.println("meat");
+        if (findBranch(branchName) != null) return false;
+
         this.branches.add(new Branch(branchName));
         return true;
     }
@@ -34,9 +33,7 @@ public class Bank {
     }
 
     private Branch findBranch(String branchName) {
-        System.out.println(branches);
-        for (int i = 0; i < branches.size(); i++) {
-            Branch foundBranch = branches.get(i);
+        for (Branch foundBranch : branches) {
             if (foundBranch.getName().equals(branchName)) {
                 return foundBranch;
             }
@@ -47,16 +44,17 @@ public class Bank {
 
     public boolean getCustomers(String branchName, boolean showTransactions) {
         Branch foundBranch = findBranch(branchName);
-        System.out.println(foundBranch);
         if (foundBranch == null) return false;
 
-        System.out.println("\tBranch: " + foundBranch + " Customer Details");
+        System.out.println("Branch: " + foundBranch.getName());
+        System.out.println("\tCustomer Details:");
 
         ArrayList<Customer> branchCustomers = foundBranch.getCustomers();
+
         for (Customer branchCustomer : branchCustomers) {
-            System.out.println("\nCustomer: " + branchCustomer.getName());
+            System.out.println("\t\tCustomer: " + branchCustomer.getName());
             if (showTransactions) {
-                System.out.println("\n\tTransactions:");
+                System.out.print("\t\t\tTransactions: ");
                 ArrayList<Double> transactions = branchCustomer.getTransactions();
 
                 for (Double transaction: transactions) {

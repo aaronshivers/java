@@ -2,18 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1caaee9-5dd3-42df-9256-649956ca313d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BankingApplication.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Branch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BankingApplication/com/company/Bank.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BankingApplication/com/company/Bank.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BankingApplication/com/company/Branch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BankingApplication/com/company/Branch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BankingApplication/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BankingApplication/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Bank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Branch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Branch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />

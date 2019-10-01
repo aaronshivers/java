@@ -20,7 +20,7 @@ public class Branch {
     }
 
     public boolean addCustomer(String customerName, double initialBalance) {
-        if (findCustomer(customerName) == null) return false;
+        if (findCustomer(customerName) != null) return false;
 
         this.customers.add(new Customer(customerName, initialBalance));
         return true;
