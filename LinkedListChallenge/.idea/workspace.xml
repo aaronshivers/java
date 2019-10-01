@@ -1,7 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f7d53a19-37e6-41b3-a8e2-d657df3a7703" name="Default Changelist" comment="" />
+    <list default="true" id="7471f093-0737-43c8-af33-e5db1f021db2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../BurgerChallenge/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BurgerChallenge/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BurgerChallenge/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BurgerChallenge/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BurgerChallenge/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BurgerChallenge/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BurgerChallenge/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BurgerChallenge/LinkedListChallenge.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BurgerChallenge/out/production/LinkedListChallenge/com/company/BaconBurger.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BurgerChallenge/out/production/LinkedListChallenge/com/company/Burger.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BurgerChallenge/out/production/LinkedListChallenge/com/company/DeluxeBurger.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BurgerChallenge/out/production/LinkedListChallenge/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BurgerChallenge/out/production/LinkedListChallenge/com/company/VeggieBurger.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BurgerChallenge/src/com/company/BaconBurger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BurgerChallenge/src/com/company/Burger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BurgerChallenge/src/com/company/DeluxeBurger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BurgerChallenge/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BurgerChallenge/src/com/company/VeggieBurger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LinkedListChallenge/com/company/Album.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LinkedListChallenge/com/company/Song.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Album.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Song.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BankingApplication/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BankingApplication/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BankingApplication/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BankingApplication/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedList/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedList/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedList/out/production/LinkedList/com/company/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedList/out/production/LinkedList/com/company/Demo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedList/src/com/company/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedList/src/com/company/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LinkedListChallenge/com/company/BaconBurger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LinkedListChallenge/com/company/Burger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LinkedListChallenge/com/company/DeluxeBurger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LinkedListChallenge/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LinkedListChallenge/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LinkedListChallenge/com/company/VeggieBurger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/BaconBurger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Burger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/DeluxeBurger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/VeggieBurger.java" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,11 +56,15 @@
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="1RDMwRN4uluSurszrk2VLiiIR7z" />
-  <component name="RecentsManager">
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.company" />
-    </key>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1RbngK1SxSqF8pDMzaGf2Is5Fed" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../BankingApplication" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -55,12 +100,23 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f7d53a19-37e6-41b3-a8e2-d657df3a7703" name="Default Changelist" comment="" />
-      <created>1569197451249</created>
+      <changelist id="7471f093-0737-43c8-af33-e5db1f021db2" name="Default Changelist" comment="" />
+      <created>1569944772632</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1569197451249</updated>
+      <updated>1569944772632</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

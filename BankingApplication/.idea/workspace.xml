@@ -2,13 +2,46 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1caaee9-5dd3-42df-9256-649956ca313d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../BurgerChallenge/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BurgerChallenge/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BurgerChallenge/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BurgerChallenge/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BurgerChallenge/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BurgerChallenge/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BurgerChallenge/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BurgerChallenge/LinkedListChallenge.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BurgerChallenge/out/production/LinkedListChallenge/com/company/BaconBurger.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BurgerChallenge/out/production/LinkedListChallenge/com/company/Burger.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BurgerChallenge/out/production/LinkedListChallenge/com/company/DeluxeBurger.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BurgerChallenge/out/production/LinkedListChallenge/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BurgerChallenge/out/production/LinkedListChallenge/com/company/VeggieBurger.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BurgerChallenge/src/com/company/BaconBurger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BurgerChallenge/src/com/company/Burger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BurgerChallenge/src/com/company/DeluxeBurger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BurgerChallenge/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BurgerChallenge/src/com/company/VeggieBurger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedListChallenge/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedListChallenge/out/production/LinkedListChallenge/com/company/Album.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedListChallenge/out/production/LinkedListChallenge/com/company/Song.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedListChallenge/src/com/company/Album.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedListChallenge/src/com/company/Song.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BankingApplication/com/company/Bank.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BankingApplication/com/company/Bank.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BankingApplication/com/company/Branch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BankingApplication/com/company/Branch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BankingApplication/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BankingApplication/com/company/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Bank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Branch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Branch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedList/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedList/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedList/out/production/LinkedList/com/company/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedList/out/production/LinkedList/com/company/Demo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedList/src/com/company/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedList/src/com/company/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedListChallenge/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedListChallenge/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedListChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedListChallenge/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedListChallenge/out/production/LinkedListChallenge/com/company/BaconBurger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedListChallenge/out/production/LinkedListChallenge/com/company/Burger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedListChallenge/out/production/LinkedListChallenge/com/company/DeluxeBurger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedListChallenge/out/production/LinkedListChallenge/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedListChallenge/out/production/LinkedListChallenge/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedListChallenge/out/production/LinkedListChallenge/com/company/VeggieBurger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedListChallenge/src/com/company/BaconBurger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedListChallenge/src/com/company/Burger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedListChallenge/src/com/company/DeluxeBurger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedListChallenge/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedListChallenge/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedListChallenge/src/com/company/VeggieBurger.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,7 +63,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/Arrays,-Java-inbuilt-Lists,-Autoboxing-and-Unboxing-Autoboxing-&amp;-Unboxing-(Challenge-Exercise)-Part-3-Source-code" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="two.files.diff.last.used.file" value="$USER_HOME$/Downloads/Arrays,-Java-inbuilt-Lists,-Autoboxing-and-Unboxing-Autoboxing-&amp;-Unboxing-(Challenge-Exercise)-Part-3-Source-code/src/com/timbuchalka/Bank.java" />
   </component>
   <component name="RunDashboard">
