@@ -1,54 +1,128 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="562faef4-ff53-4675-a811-c4adc08c2a6d" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="80315f88-59d9-4e4c-940b-78d025f47d74" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AreaCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BudgetApp/BudgetApp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InterfacesChallenge/InterfacesChallenge.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InterfacesChallenge/src/com/company/ISaveable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InterfacesChallenge/src/com/company/Monster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InterfacesChallenge/src/com/company/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RecipeApp/RecipeApp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RecipeApp/src/com/aaronshivers/Ingredient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RecipeApp/src/com/aaronshivers/Recipe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RecipeApp/src/com/aaronshivers/RecipeBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sandwiches/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sandwiches/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sandwiches/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sandwiches/Sandwiches.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sandwiches/src/com/aaronshivers/Ingredient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sandwiches/src/com/aaronshivers/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sandwiches/src/com/aaronshivers/PeanutButterAndJelly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sandwiches/src/com/aaronshivers/Sandwich.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SecondsAndMinutesChallenge/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SecondsAndMinutesChallenge/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SecondsAndMinutesChallenge/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SecondsAndMinutesChallenge/SecondsAndMinutesChallenge.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SecondsAndMinutesChallenge/src/SecondsAndMinutes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AreaCalculator.iml" beforeDir="false" afterPath="$PROJECT_DIR$/AreaCalculator.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AreaCalculator/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BankingApplication/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BankingApplication/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interfaces.LinkedList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Interfaces.LinkedList/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interfaces.LinkedList/out/production/LinkedListChallenge/META-INF/LinkedListChallenge.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interfaces.LinkedList/out/production/LinkedListChallenge/com/company/Album.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Interfaces.LinkedList/out/production/LinkedListChallenge/com/company/Album.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interfaces.LinkedList/out/production/LinkedListChallenge/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Interfaces.LinkedList/out/production/LinkedListChallenge/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interfaces.LinkedList/src/com/company/Album.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Interfaces.LinkedList/src/com/company/Album.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interfaces.LinkedList/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Interfaces.LinkedList/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MinutesToYearsAndDaysCaluclator/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MinutesToYearsAndDaysCaluclator/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MinutesToYearsAndDaysCaluclator/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MinutesToYearsAndDaysCaluclator/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MinutesToYearsAndDaysCaluclator/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MinutesToYearsAndDaysCaluclator/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MinutesToYearsAndDaysCaluclator/MinutesToYearsAndDaysCaluclator.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MinutesToYearsAndDaysCaluclator/out/production/MinutesToYearsAndDaysCaluclator/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MinutesToYearsAndDaysCaluclator/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SecondsAndMinutes/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SecondsAndMinutes/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SecondsAndMinutes/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SecondsAndMinutes/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SecondsAndMinutes/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SecondsAndMinutes/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SecondsAndMinutes/SecondsAndMinutes.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SecondsAndMinutes/out/production/SecondsAndMinutes/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SecondsAndMinutes/src/com/company/Main.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectId" id="1Qv5NKirP5pKHeY3O8Xcb3WLRcs" />
-  <component name="RunDashboard">
-    <option name="ruleStates">
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
       <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
+        <option value="Class" />
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
-      <module name="AreaCalculator" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1WWbkJmOglCEo3FGzZ4OX7dYijG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
       <list>
-        <item itemvalue="Application.Main" />
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
       </list>
-    </recent_temporary>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="562faef4-ff53-4675-a811-c4adc08c2a6d" name="Default Changelist" comment="" />
-      <created>1568638187550</created>
+      <changelist id="80315f88-59d9-4e4c-940b-78d025f47d74" name="Default Changelist" comment="" />
+      <created>1579268439152</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1568638187550</updated>
+      <updated>1579268439152</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="616" y="101" width="1294" height="850" key="new project wizard" timestamp="1579268964335">
+      <screen x="0" y="0" width="1920" height="1046" />
+    </state>
+    <state x="616" y="101" width="1294" height="850" key="new project wizard/0.0.1920.1046@0.0.1920.1046" timestamp="1579268964335" />
   </component>
 </project>

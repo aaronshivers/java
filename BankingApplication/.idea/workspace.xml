@@ -2,25 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1caaee9-5dd3-42df-9256-649956ca313d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Pizza/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pizza/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pizza/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pizza/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pizza/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pizza/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pizza/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pizza/Pizza.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pizza/src/com/company/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pizza/src/com/company/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pizza/src/com/company/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pizza/src/com/company/Pizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pizza/src/com/company/Restaurant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pizza/src/com/company/Supreme.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pizza/src/com/company/Topping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InterfacesChallenge/src/com/company/ISaveable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InterfacesChallenge/src/com/company/Monster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InterfacesChallenge/src/com/company/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RecipeApp/src/com/aaronshivers/Ingredient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RecipeApp/src/com/aaronshivers/Recipe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RecipeApp/src/com/aaronshivers/RecipeBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sandwiches/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sandwiches/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sandwiches/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sandwiches/src/com/aaronshivers/Ingredient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sandwiches/src/com/aaronshivers/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sandwiches/src/com/aaronshivers/PeanutButterAndJelly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sandwiches/src/com/aaronshivers/Sandwich.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LinkedListChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedListChallenge/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interfaces.LinkedList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Interfaces.LinkedList/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interfaces.LinkedList/out/production/LinkedListChallenge/META-INF/LinkedListChallenge.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interfaces.LinkedList/out/production/LinkedListChallenge/com/company/Album.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Interfaces.LinkedList/out/production/LinkedListChallenge/com/company/Album.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interfaces.LinkedList/out/production/LinkedListChallenge/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Interfaces.LinkedList/out/production/LinkedListChallenge/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interfaces.LinkedList/src/com/company/Album.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Interfaces.LinkedList/src/com/company/Album.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interfaces.LinkedList/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Interfaces.LinkedList/src/com/company/Main.java" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,22 +41,15 @@
   </component>
   <component name="ProjectId" id="1RYp5yYpU39ho2VdfnRekm6T4pH" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="two.files.diff.last.used.file" value="$USER_HOME$/Downloads/Arrays,-Java-inbuilt-Lists,-Autoboxing-and-Unboxing-Autoboxing-&amp;-Unboxing-(Challenge-Exercise)-Part-3-Source-code/src/com/timbuchalka/Bank.java" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -71,6 +67,18 @@
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
