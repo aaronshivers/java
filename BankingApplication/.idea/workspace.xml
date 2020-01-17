@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1caaee9-5dd3-42df-9256-649956ca313d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LinkedList/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedList/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LinkedListChallenge/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedListChallenge/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../LinkedListChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedListChallenge/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LinkedListChallenge/out/production/LinkedListChallenge/com/company/Album.class" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedListChallenge/out/production/LinkedListChallenge/com/company/Album.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LinkedListChallenge/out/production/LinkedListChallenge/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedListChallenge/out/production/LinkedListChallenge/com/company/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LinkedListChallenge/out/production/LinkedListChallenge/com/company/Song.class" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedListChallenge/out/production/LinkedListChallenge/com/company/Song.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LinkedListChallenge/src/com/company/Album.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedListChallenge/src/com/company/Album.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LinkedListChallenge/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedListChallenge/src/com/company/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LinkedListChallenge/src/com/company/Song.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedListChallenge/src/com/company/Song.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
