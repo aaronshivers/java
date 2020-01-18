@@ -1,29 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="33d1e0bd-74c3-4952-bc26-bac275275947" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="4d240570-ef76-456e-8b3f-776410707269" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Sum3and5/src/Sum3And5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SumOddChallenge/src/SumOddRange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/While/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectId" id="1QyrQh8JFf1kPepFutEHhY9CeCH" />
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1WYCD9h2un4oIYq9MYhUAdgLiSF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <option name="MAIN_CLASS_NAME" value="com.aaronshivers.Main" />
       <module name="While" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
@@ -38,17 +41,55 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="33d1e0bd-74c3-4952-bc26-bac275275947" name="Default Changelist" comment="" />
-      <created>1568753662709</created>
+      <changelist id="4d240570-ef76-456e-8b3f-776410707269" name="Default Changelist" comment="" />
+      <created>1579317018135</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1568753662709</updated>
+      <updated>1579317018135</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="916" height="252" key="GridCell.Tab.0.bottom" timestamp="1579318875746">
+      <screen x="0" y="0" width="1920" height="1046" />
+    </state>
+    <state width="916" height="252" key="GridCell.Tab.0.bottom/0.0.1920.1046@0.0.1920.1046" timestamp="1579318875746" />
+    <state width="916" height="252" key="GridCell.Tab.0.center" timestamp="1579318875746">
+      <screen x="0" y="0" width="1920" height="1046" />
+    </state>
+    <state width="916" height="252" key="GridCell.Tab.0.center/0.0.1920.1046@0.0.1920.1046" timestamp="1579318875746" />
+    <state width="916" height="252" key="GridCell.Tab.0.left" timestamp="1579318875745">
+      <screen x="0" y="0" width="1920" height="1046" />
+    </state>
+    <state width="916" height="252" key="GridCell.Tab.0.left/0.0.1920.1046@0.0.1920.1046" timestamp="1579318875745" />
+    <state width="916" height="252" key="GridCell.Tab.0.right" timestamp="1579318875746">
+      <screen x="0" y="0" width="1920" height="1046" />
+    </state>
+    <state width="916" height="252" key="GridCell.Tab.0.right/0.0.1920.1046@0.0.1920.1046" timestamp="1579318875746" />
+    <state x="616" y="101" width="1294" height="850" key="new project wizard" timestamp="1579318873962">
+      <screen x="0" y="0" width="1920" height="1046" />
+    </state>
+    <state x="616" y="101" width="1294" height="850" key="new project wizard/0.0.1920.1046@0.0.1920.1046" timestamp="1579318873962" />
+    <state x="1103" y="230" key="search.everywhere.popup" timestamp="1579317117149">
+      <screen x="0" y="0" width="1920" height="1046" />
+    </state>
+    <state x="1103" y="230" key="search.everywhere.popup/0.0.1920.1046@0.0.1920.1046" timestamp="1579317117149" />
   </component>
 </project>
