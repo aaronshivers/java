@@ -1,29 +1,80 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="262a0e15-0e9a-4a12-9399-ce606b8555c3" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="2be13f37-3f7b-4164-a25f-0c05a21f5223" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../DayOfTheWeekChallenge/DayOfTheWeekChallenge.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DayOfTheWeekChallenge/src/DayOfTheWeek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NumberInWord/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NumberInWord/src/NumberInWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NumberOfDaysInMonth/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NumberOfDaysInMonth/src/NumberOfDaysInMonth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayingCat/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayingCat/src/PlayingCat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Switch/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DayOfTheWeek/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DayOfTheWeek/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DayOfTheWeek/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DayOfTheWeek/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DayOfTheWeek/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DayOfTheWeek/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DayOfTheWeek/DayOfTheWeek.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DayOfTheWeek/out/production/DayOfTheWeek/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DayOfTheWeek/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ForLoop/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LeapYear/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LeapYear/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NumberInWord/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NumberInWord/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NumberInWord/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NumberInWord/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NumberInWord/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NumberInWord/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NumberInWord/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NumberInWord/NumberInWord.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../NumberInWord/NumberInWord.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NumberInWord/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NumberOfDaysInMonth/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NumberOfDaysInMonth/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NumberOfDaysInMonth/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NumberOfDaysInMonth/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NumberOfDaysInMonth/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NumberOfDaysInMonth/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NumberOfDaysInMonth/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NumberOfDaysInMonth/NumberOfDaysInMonth.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../NumberOfDaysInMonth/NumberOfDaysInMonth.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NumberOfDaysInMonth/out/production/NumberOfDaysInMonth/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NumberOfDaysInMonth/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayingCat/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayingCat/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayingCat/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PlayingCat/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayingCat/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayingCat/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PlayingCat/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayingCat/PlayingCat.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../PlayingCat/PlayingCat.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayingCat/out/production/PlayingCat/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayingCat/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Switch/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Switch/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Switch/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Switch/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Switch/out/production/Switch/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Switch/src/com/company/Main.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectId" id="1Qy6UekXj9CXMSjwT2eOX5BuaAi" />
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1WXKmQd32lyxAHJL2nMWOCIGRdc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <option name="MAIN_CLASS_NAME" value="com.aaronshivers.Main" />
       <module name="ForLoop" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
@@ -38,17 +89,47 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="262a0e15-0e9a-4a12-9399-ce606b8555c3" name="Default Changelist" comment="" />
-      <created>1568730505657</created>
+      <changelist id="2be13f37-3f7b-4164-a25f-0c05a21f5223" name="Default Changelist" comment="" />
+      <created>1579290657131</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1568730505657</updated>
+      <updated>1579290657131</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="811" height="225" key="GridCell.Tab.0.bottom" timestamp="1579293461903">
+      <screen x="0" y="0" width="1600" height="866" />
+    </state>
+    <state width="811" height="225" key="GridCell.Tab.0.bottom/0.0.1600.866@0.0.1600.866" timestamp="1579293461903" />
+    <state width="811" height="225" key="GridCell.Tab.0.center" timestamp="1579293461902">
+      <screen x="0" y="0" width="1600" height="866" />
+    </state>
+    <state width="811" height="225" key="GridCell.Tab.0.center/0.0.1600.866@0.0.1600.866" timestamp="1579293461902" />
+    <state width="811" height="225" key="GridCell.Tab.0.left" timestamp="1579293461902">
+      <screen x="0" y="0" width="1600" height="866" />
+    </state>
+    <state width="811" height="225" key="GridCell.Tab.0.left/0.0.1600.866@0.0.1600.866" timestamp="1579293461902" />
+    <state width="811" height="225" key="GridCell.Tab.0.right" timestamp="1579293461902">
+      <screen x="0" y="0" width="1600" height="866" />
+    </state>
+    <state width="811" height="225" key="GridCell.Tab.0.right/0.0.1600.866@0.0.1600.866" timestamp="1579293461902" />
   </component>
 </project>

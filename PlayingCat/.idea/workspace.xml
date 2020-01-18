@@ -1,54 +1,102 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bf962c96-4a36-4c4b-94a9-c1e3b44a1641" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="b0d201cf-339d-4f40-a613-da4c4e17092b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PlayingCat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PlayingCat.iml" beforeDir="false" afterPath="$PROJECT_DIR$/PlayingCat.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PlayingCat/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectId" id="1QvCBl0LLnCRK4tKDw7XExU0cV5" />
-  <component name="RunDashboard">
-    <option name="ruleStates">
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
       <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
+        <option value="Class" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1WWj0kB0hDxiRH5czYPfBw3A3CM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
   <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+    <configuration name="PlayingCat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PlayingCat" />
       <module name="PlayingCat" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.PlayingCat" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="bf962c96-4a36-4c4b-94a9-c1e3b44a1641" name="Default Changelist" comment="" />
-      <created>1568641549552</created>
+      <changelist id="b0d201cf-339d-4f40-a613-da4c4e17092b" name="Default Changelist" comment="" />
+      <created>1579272023546</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1568641549552</updated>
+      <updated>1579272023546</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="811" height="190" key="GridCell.Tab.0.bottom" timestamp="1579272725929">
+      <screen x="0" y="0" width="1600" height="866" />
+    </state>
+    <state width="811" height="190" key="GridCell.Tab.0.bottom/0.0.1600.866@0.0.1600.866" timestamp="1579272725929" />
+    <state width="811" height="190" key="GridCell.Tab.0.center" timestamp="1579272725928">
+      <screen x="0" y="0" width="1600" height="866" />
+    </state>
+    <state width="811" height="190" key="GridCell.Tab.0.center/0.0.1600.866@0.0.1600.866" timestamp="1579272725928" />
+    <state width="811" height="190" key="GridCell.Tab.0.left" timestamp="1579272725928">
+      <screen x="0" y="0" width="1600" height="866" />
+    </state>
+    <state width="811" height="190" key="GridCell.Tab.0.left/0.0.1600.866@0.0.1600.866" timestamp="1579272725928" />
+    <state width="811" height="190" key="GridCell.Tab.0.right" timestamp="1579272725929">
+      <screen x="0" y="0" width="1600" height="866" />
+    </state>
+    <state width="811" height="190" key="GridCell.Tab.0.right/0.0.1600.866@0.0.1600.866" timestamp="1579272725929" />
   </component>
 </project>

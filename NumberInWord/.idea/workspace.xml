@@ -1,48 +1,94 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="48e5e503-4504-4df9-9359-fd9559e2a812" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="be1d672c-2cae-41fc-9c6b-618731853a08" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../DayOfTheWeekChallenge/DayOfTheWeekChallenge.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DayOfTheWeekChallenge/src/DayOfTheWeek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NumberInWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayingCat/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayingCat/src/PlayingCat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Switch/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DayOfTheWeek/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DayOfTheWeek/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DayOfTheWeek/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DayOfTheWeek/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DayOfTheWeek/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DayOfTheWeek/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DayOfTheWeek/DayOfTheWeek.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DayOfTheWeek/out/production/DayOfTheWeek/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DayOfTheWeek/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NumberInWord.iml" beforeDir="false" afterPath="$PROJECT_DIR$/NumberInWord.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayingCat/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayingCat/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayingCat/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PlayingCat/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayingCat/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayingCat/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PlayingCat/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayingCat/PlayingCat.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../PlayingCat/PlayingCat.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayingCat/out/production/PlayingCat/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayingCat/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Switch/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Switch/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Switch/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Switch/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Switch/out/production/Switch/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Switch/src/com/company/Main.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectId" id="1QvrHI37jFxvmu16jdHp8A80TxH" />
-  <component name="RunDashboard">
-    <option name="ruleStates">
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
       <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
+        <option value="Class" />
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
-      <module name="NumberInWord" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1WX52l7d8pdWiAR8WI6PvWHvnPo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="48e5e503-4504-4df9-9359-fd9559e2a812" name="Default Changelist" comment="" />
-      <created>1568661821859</created>
+      <changelist id="be1d672c-2cae-41fc-9c6b-618731853a08" name="Default Changelist" comment="" />
+      <created>1579282893509</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1568661821859</updated>
+      <updated>1579282893509</updated>
     </task>
     <servers />
   </component>
