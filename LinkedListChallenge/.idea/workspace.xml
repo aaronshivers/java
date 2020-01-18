@@ -2,34 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7471f093-0737-43c8-af33-e5db1f021db2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Interfaces/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Interfaces/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Interfaces/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Interfaces/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Interfaces/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Interfaces/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Interfaces/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Interfaces/Interfaces.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Interfaces/src/com/company/DeskPhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Interfaces/src/com/company/Gearbox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Interfaces/src/com/company/ITelephone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Interfaces/src/com/company/MobilePhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pizza/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pizza/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pizza/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pizza/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pizza/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pizza/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pizza/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pizza/Pizza.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pizza/src/com/company/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pizza/src/com/company/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pizza/src/com/company/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pizza/src/com/company/Pizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pizza/src/com/company/Restaurant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pizza/src/com/company/Supreme.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pizza/src/com/company/Topping.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BankingApplication/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BankingApplication/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -53,8 +25,7 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../BankingApplication" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -103,15 +74,10 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

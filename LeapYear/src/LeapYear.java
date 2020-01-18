@@ -11,21 +11,16 @@ public class LeapYear {
     }
 
     public static boolean isLeapYear(int year) {
-        if (year < 1 || year >= 10000) return false;
+        if (year < 1 || year > 9999) return false;
 
-        // 1
         if (year % 4 == 0) {
-            // 2
             if (year % 100 == 0) {
-                // 3
                 return year % 400 == 0;
+            } else {
+                return true;
             }
-            // 4
-            return true;
+        } else {
+            return false;
         }
-        // 5
-        return false;
     }
 }
-
-//        return ((year % 100 == 0 && year % 400 == 0) || year % 4 == 0);

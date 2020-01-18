@@ -1,15 +1,102 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f8d6c085-2946-4599-9053-dda777b56e7f" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="f4ced24e-eb40-4a05-8905-ebb221a6fb62" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../ByteShortIntLong/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CharAndBoolean/CharAndBoolean.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FloatAndDouble/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GettingStarted/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GettingStarted/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GettingStarted/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GettingStarted/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GettingStarted/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GettingStarted/GettingStarted.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GettingStarted/manifest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GettingStarted/src/MainTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GettingStarted/src/PrintArgs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GettingStarted/src/TestFQCN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GettingStarted/src/TestImport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GettingStarted/src/TestImportStatic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GettingStarted/src/TheBeginning.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GettingStarted/src/a/Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GettingStarted/src/a/TestStatic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GettingStarted/src/a/b/PackageTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GettingStarted/src/a/c/ImportTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GettingStarted/src/a/d/StaticImportTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GettingStarted/src/a/e/StaticImportTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GettingStarted/src/garden/vegetable/VineVegetable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GettingStarted/src/nursery/vegetable/VineVegetable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/HelloWorld.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/src/Hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IfKeywordAndCodeBlocks/IfKeywordAndCodeBlocks.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KeywordsAndExpressions/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Methods/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OperatorChallenge/OperatorChallenge.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Operators/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoundsToKilograms/PoundsToKilograms.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PrimitiveTypesChallenge/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strings/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SumCalculatorChallenge/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiteSpaceAndIntentation/WhiteSpaceAndIntentation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../codebat/codebat.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BankingApplication/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BankingApplication/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ByteShortIntLong/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ByteShortIntLong/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ByteShortIntLong/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ByteShortIntLong/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ByteShortIntLong/out/production/ByteShortIntLong/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ByteShortIntLong/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FloatAndDouble/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FloatAndDouble/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FloatAndDouble/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FloatAndDouble/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FloatAndDouble/out/production/FloatAndDouble/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FloatAndDouble/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KeywordsAndExpressions/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../KeywordsAndExpressions/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KeywordsAndExpressions/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../KeywordsAndExpressions/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KeywordsAndExpressions/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedListChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedListChallenge/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Methods/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Methods/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Methods/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Methods/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Methods/out/production/Methods/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Methods/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Operators/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Operators/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Operators/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Operators/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Operators/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Operators/out/production/Operators/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Operators/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PersonChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PersonChallenge/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PrimitiveTypesChallenge/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PrimitiveTypesChallenge/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PrimitiveTypesChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PrimitiveTypesChallenge/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PrimitiveTypesChallenge/out/production/PrimitiveTypesChallenge/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PrimitiveTypesChallenge/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SpeedConverter/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SpeedConverter/SpeedConverter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SpeedConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SpeedConverter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Strings/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Strings/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Strings/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Strings/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Strings/out/production/Strings/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Strings/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SumCalculatorChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SumCalculatorChallenge/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ifKeywordAndCodeBlocks/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ifKeywordAndCodeBlocks/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ifKeywordAndCodeBlocks/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ifKeywordAndCodeBlocks/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ifKeywordAndCodeBlocks/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ifKeywordAndCodeBlocks/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ifKeywordAndCodeBlocks/ifKeywordAndCodeBlocks.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ifKeywordAndCodeBlocks/out/production/ifKeywordAndCodeBlocks/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ifKeywordAndCodeBlocks/src/com/company/Main.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="CodeInsightWorkspaceSettings">
-    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -18,50 +105,56 @@
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="1QsIMuHhJ6AGIwM4k2Y4j9e39IZ" />
-  <component name="PropertiesComponent">
-    <property name="project.structure.last.edited" value="SDKs" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
+  <component name="ProjectId" id="1WS0J6L0MduRruyfovYhxWbRhB3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
       <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
       </list>
     </option>
-  </component>
-  <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="SpeedConverter" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Main" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f8d6c085-2946-4599-9053-dda777b56e7f" name="Default Changelist" comment="" />
-      <created>1568552832889</created>
+      <changelist id="f4ced24e-eb40-4a05-8905-ebb221a6fb62" name="Default Changelist" comment="" />
+      <created>1579127613944</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1568552832889</updated>
+      <updated>1579127613944</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="750" y="95" width="850" height="683" key="#Project_Structure" timestamp="1579127620461">
+      <screen x="0" y="0" width="1600" height="866" />
+    </state>
+    <state x="750" y="95" width="850" height="683" key="#Project_Structure/0.0.1600.866@0.0.1600.866" timestamp="1579127620461" />
+    <state x="218" y="9" width="1372" height="854" key="new project wizard" timestamp="1579128595264">
+      <screen x="0" y="0" width="1600" height="866" />
+    </state>
+    <state x="218" y="9" width="1372" height="854" key="new project wizard/0.0.1600.866@0.0.1600.866" timestamp="1579128595264" />
   </component>
 </project>
