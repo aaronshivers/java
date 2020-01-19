@@ -1,11 +1,7 @@
-package com.company;
-
-public class Main {
-
+public class NumberPalindrome {
     public static void main(String[] args) {
-        System.out.println(isPalindrome(-1221)); // true
-        System.out.println(isPalindrome(707)); // true
-        System.out.println(isPalindrome(11212)); // false
+        System.out.println(isPalindrome(-222)); // true
+        System.out.println(isPalindrome(-123)); // false
     }
 
     public static boolean isPalindrome(int number) {

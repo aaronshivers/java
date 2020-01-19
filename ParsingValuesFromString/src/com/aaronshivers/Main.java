@@ -1,9 +1,9 @@
-package com.company;
+package com.aaronshivers;
 
 public class Main {
 
     public static void main(String[] args) {
-	    String numberAsString = "2018.1234";
+        String numberAsString = "2018.123";
         System.out.println("numberAsString = " + numberAsString);
 
         double number = Double.parseDouble(numberAsString);
@@ -14,5 +14,6 @@ public class Main {
 
         System.out.println("numberAsString = " + numberAsString);
         System.out.println("number = " + number);
+
     }
 }

@@ -1,54 +1,135 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0c08b398-e266-4269-8a4d-460e0500b2d7" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="752c7351-0e1c-4fc5-b738-cf200467e415" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/NumberPalindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstAndLastDigitSumChallenge/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstAndLastDigitSumChallenge/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstAndLastDigitSumChallenge/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FirstAndLastDigitSumChallenge/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstAndLastDigitSumChallenge/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstAndLastDigitSumChallenge/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstAndLastDigitSumChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FirstAndLastDigitSumChallenge/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstAndLastDigitSumChallenge/FirstAndLastDigitSumChallenge.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstAndLastDigitSumChallenge/out/production/FirstAndLastDigitSumChallenge/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstAndLastDigitSumChallenge/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NumberPalendrome/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NumberPalendrome/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NumberPalendrome/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NumberPalendrome/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NumberPalendrome/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NumberPalendrome/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NumberPalendrome/NumberPalendrome.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NumberPalendrome/out/production/NumberPalendrome/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NumberPalendrome/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NumberPalindrome.iml" beforeDir="false" afterPath="$PROJECT_DIR$/NumberPalindrome.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/NumberPalindrome/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectId" id="1R0lkl75FoURKvs6PpXmBk81sc4" />
-  <component name="RunDashboard">
-    <option name="ruleStates">
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
       <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
+        <option value="Class" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1WZMwtqpuT39Hh1Pd6XvIlbwUZ3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
   <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+    <configuration name="NumberPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NumberPalindrome" />
       <module name="NumberPalindrome" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.NumberPalindrome" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="0c08b398-e266-4269-8a4d-460e0500b2d7" name="Default Changelist" comment="" />
-      <created>1568812039923</created>
+      <changelist id="752c7351-0e1c-4fc5-b738-cf200467e415" name="Default Changelist" comment="" />
+      <created>1579352905841</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1568812039923</updated>
+      <updated>1579352905841</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="916" height="252" key="GridCell.Tab.0.bottom" timestamp="1579354545297">
+      <screen x="0" y="0" width="1920" height="1046" />
+    </state>
+    <state width="916" height="252" key="GridCell.Tab.0.bottom/0.0.1920.1046@0.0.1920.1046" timestamp="1579354545297" />
+    <state width="916" height="252" key="GridCell.Tab.0.center" timestamp="1579354545297">
+      <screen x="0" y="0" width="1920" height="1046" />
+    </state>
+    <state width="916" height="252" key="GridCell.Tab.0.center/0.0.1920.1046@0.0.1920.1046" timestamp="1579354545297" />
+    <state width="916" height="252" key="GridCell.Tab.0.left" timestamp="1579354545297">
+      <screen x="0" y="0" width="1920" height="1046" />
+    </state>
+    <state width="916" height="252" key="GridCell.Tab.0.left/0.0.1920.1046@0.0.1920.1046" timestamp="1579354545297" />
+    <state width="916" height="252" key="GridCell.Tab.0.right" timestamp="1579354545297">
+      <screen x="0" y="0" width="1920" height="1046" />
+    </state>
+    <state width="916" height="252" key="GridCell.Tab.0.right/0.0.1920.1046@0.0.1920.1046" timestamp="1579354545297" />
+    <state x="1060" y="100" width="760" height="846" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1579354483270">
+      <screen x="0" y="0" width="1920" height="1046" />
+    </state>
+    <state x="1060" y="100" width="760" height="846" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1046@0.0.1920.1046" timestamp="1579354483270" />
+    <state x="616" y="101" width="1294" height="850" key="new project wizard" timestamp="1579354544315">
+      <screen x="0" y="0" width="1920" height="1046" />
+    </state>
+    <state x="616" y="101" width="1294" height="850" key="new project wizard/0.0.1920.1046@0.0.1920.1046" timestamp="1579354544315" />
+    <state x="1144" y="150" width="582" height="751" key="refactoring.ChangeSignatureDialog" timestamp="1579353331229">
+      <screen x="0" y="0" width="1920" height="1046" />
+    </state>
+    <state x="1144" y="150" width="582" height="751" key="refactoring.ChangeSignatureDialog/0.0.1920.1046@0.0.1920.1046" timestamp="1579353331229" />
   </component>
 </project>
