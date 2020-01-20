@@ -1,54 +1,146 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="86889665-8f15-49f2-b204-b37c02aafdc7" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="0d4953a6-54a7-4d7d-a396-a9fad57f5770" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../AllFactorsChallenge/src/FactorPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GreatestCommonDivisorChallenge/src/GreatestCommonDivisor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LastDigitCheckerChallenge/src/LastDigitChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NumberToWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PerfectNumberChallenge/src/PerfectNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SharedDigitChallenge/src/SharedDigit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllFactorsChallenge/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllFactorsChallenge/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllFactorsChallenge/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AllFactorsChallenge/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllFactorsChallenge/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllFactorsChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AllFactorsChallenge/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllFactorsChallenge/AllFactorsChallenge.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../AllFactorsChallenge/AllFactorsChallenge.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllFactorsChallenge/out/production/AllFactorsChallenge/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllFactorsChallenge/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForLoop/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ForLoop/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreatestCommonDivisorChallenge/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreatestCommonDivisorChallenge/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreatestCommonDivisorChallenge/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GreatestCommonDivisorChallenge/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreatestCommonDivisorChallenge/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreatestCommonDivisorChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GreatestCommonDivisorChallenge/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreatestCommonDivisorChallenge/GreatestCommonDivisorChallenge.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../GreatestCommonDivisorChallenge/GreatestCommonDivisorChallenge.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreatestCommonDivisorChallenge/out/production/GreatestCommonDivisorChallenge/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreatestCommonDivisorChallenge/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LastDigitCheckerChallenge/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LastDigitCheckerChallenge/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LastDigitCheckerChallenge/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LastDigitCheckerChallenge/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LastDigitCheckerChallenge/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LastDigitCheckerChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LastDigitCheckerChallenge/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LastDigitCheckerChallenge/LastDigitCheckerChallenge.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../LastDigitCheckerChallenge/LastDigitCheckerChallenge.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LastDigitCheckerChallenge/out/production/LastDigitCheckerChallenge/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LastDigitCheckerChallenge/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NumberToWordsChallenge.iml" beforeDir="false" afterPath="$PROJECT_DIR$/NumberToWordsChallenge.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/NumberToWordsChallenge/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PerfectNumberChallenge/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PerfectNumberChallenge/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PerfectNumberChallenge/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PerfectNumberChallenge/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PerfectNumberChallenge/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PerfectNumberChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PerfectNumberChallenge/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PerfectNumberChallenge/PerfectNumberChallenge.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../PerfectNumberChallenge/PerfectNumberChallenge.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PerfectNumberChallenge/out/production/PerfectNumberChallenge/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PerfectNumberChallenge/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SharedDigitChallenge/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SharedDigitChallenge/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SharedDigitChallenge/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SharedDigitChallenge/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SharedDigitChallenge/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SharedDigitChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SharedDigitChallenge/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SharedDigitChallenge/SharedDigitChallenge.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../SharedDigitChallenge/SharedDigitChallenge.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SharedDigitChallenge/out/production/SharedDigitChallenge/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SharedDigitChallenge/src/com/company/Main.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectId" id="1R3bC2Yj6RPF05dghWlUhOJ2M8t" />
-  <component name="RunDashboard">
-    <option name="ruleStates">
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
       <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
+        <option value="Class" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1WcPyF0ne4VoYeijkRnyQx4dbqe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
   <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+    <configuration name="NumberToWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NumberToWords" />
       <module name="NumberToWordsChallenge" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.NumberToWords" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="86889665-8f15-49f2-b204-b37c02aafdc7" name="Default Changelist" comment="" />
-      <created>1568898595143</created>
+      <changelist id="0d4953a6-54a7-4d7d-a396-a9fad57f5770" name="Default Changelist" comment="" />
+      <created>1579446161139</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1568898595143</updated>
+      <updated>1579446161139</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="811" height="195" key="GridCell.Tab.0.bottom" timestamp="1579452022985">
+      <screen x="0" y="0" width="1600" height="866" />
+    </state>
+    <state width="811" height="195" key="GridCell.Tab.0.bottom/0.0.1600.866@0.0.1600.866" timestamp="1579452022985" />
+    <state width="811" height="195" key="GridCell.Tab.0.center" timestamp="1579452022985">
+      <screen x="0" y="0" width="1600" height="866" />
+    </state>
+    <state width="811" height="195" key="GridCell.Tab.0.center/0.0.1600.866@0.0.1600.866" timestamp="1579452022985" />
+    <state width="811" height="195" key="GridCell.Tab.0.left" timestamp="1579452022984">
+      <screen x="0" y="0" width="1600" height="866" />
+    </state>
+    <state width="811" height="195" key="GridCell.Tab.0.left/0.0.1600.866@0.0.1600.866" timestamp="1579452022984" />
+    <state width="811" height="195" key="GridCell.Tab.0.right" timestamp="1579452022985">
+      <screen x="0" y="0" width="1600" height="866" />
+    </state>
+    <state width="811" height="195" key="GridCell.Tab.0.right/0.0.1600.866@0.0.1600.866" timestamp="1579452022985" />
   </component>
 </project>

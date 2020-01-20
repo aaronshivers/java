@@ -1,40 +1,35 @@
-package com.company;
-
-public class Main {
-
+public class NumberToWords {
     public static void main(String[] args) {
 //        System.out.println(getDigitCount(0)); // 1
 //        System.out.println(getDigitCount(123)); // 3
 //        System.out.println(getDigitCount(-12)); // -1
 //        System.out.println(getDigitCount(5200)); // 4
-//        System.out.println(getDigitCount(101)); // 3
-//        System.out.println(getDigitCount(1)); // 1
 
 //        System.out.println(reverse(-121)); // -121
 //        System.out.println(reverse(1212)); // 2121
 //        System.out.println(reverse(1234)); // 4321
 //        System.out.println(reverse(100)); // 1
-//        System.out.println(reverse(1010)); // 101
 
-//        numberToWords(123); // "One Two Three"
-//        numberToWords(1010); // "One Zero One Zero"
-//        numberToWords(1000); // "One Zero Zero Zero"
-//        numberToWords(-12); // "Invalid Value"
-        numberToWords(0); // "Zero"
+//        numberToWords(123); // One Two Three
+        numberToWords(1010); // One Zero One Zero
+//        numberToWords(1000); // One Zero Zero Zero
+//        numberToWords(-12); // Invalid Value
     }
 
     public static void numberToWords(int number) {
         if (number < 0) System.out.println("Invalid Value");
         if (number == 0) System.out.println("Zero");
 
-        int reversedNumber = reverse(number);
-        int currentNumber = reversedNumber;
+        int tempNum = reverse(number);
 
-        while (currentNumber > 0) {
-            int lastDigit = currentNumber % 10;
-            currentNumber /= 10;
+        while (tempNum > 0) {
+            int lastDigit = tempNum % 10;
+            tempNum /= 10;
 
             switch (lastDigit) {
+                case 0:
+                    System.out.println("Zero");
+                    break;
                 case 1:
                     System.out.println("One");
                     break;
@@ -62,28 +57,22 @@ public class Main {
                 case 9:
                     System.out.println("Nine");
                     break;
-                default:
-                    System.out.println("Zero");
-                    break;
             }
-        }
 
-        int extraZeros = getDigitCount(number) - getDigitCount(reversedNumber);
-
-        for (int i = 0; i < extraZeros; i++) {
-            System.out.println("Zero");
+            for (int i = 0; i < ; i++) {
+                
+            }
         }
     }
 
     public static int reverse(int number) {
-
         int reversed = 0;
 
         while (number != 0) {
-            int lastDigit = number % 10;
+            int remainder = number % 10;
             number /= 10;
 
-            reversed = reversed * 10 + lastDigit;
+            reversed = reversed * 10 + remainder;
         }
 
         return reversed;
@@ -92,13 +81,15 @@ public class Main {
     public static int getDigitCount(int number) {
         if (number < 0) return -1;
 
-        int digitCount = number < 1 ? 1 : 0;
+        if (number == 0) return 1;
 
-        while (number >= 1) {
-            digitCount++;
+        int digitcount = 0;
+
+        while (number != 0) {
             number /= 10;
+            digitcount++;
         }
 
-        return digitCount;
+        return digitcount;
     }
 }

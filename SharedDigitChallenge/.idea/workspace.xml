@@ -1,54 +1,105 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ff442061-b864-4d1b-a192-45317d38b40d" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="081ae297-eec6-4287-940a-fd4568e7dd6c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/SharedDigit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForLoop/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ForLoop/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SharedDigitChallenge.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SharedDigitChallenge.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SharedDigitChallenge/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectId" id="1R1MGFJfdYn0zeKnexHHMMnBXwB" />
-  <component name="RunDashboard">
-    <option name="ruleStates">
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
       <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
+        <option value="Class" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1WaLeuioepcvXrUUQz1fN2zMuQ1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
   <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+    <configuration name="SharedDigit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SharedDigit" />
       <module name="SharedDigitChallenge" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.SharedDigit" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ff442061-b864-4d1b-a192-45317d38b40d" name="Default Changelist" comment="" />
-      <created>1568830050253</created>
+      <changelist id="081ae297-eec6-4287-940a-fd4568e7dd6c" name="Default Changelist" comment="" />
+      <created>1579382857356</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1568830050253</updated>
+      <updated>1579382857356</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="811" height="190" key="GridCell.Tab.0.bottom" timestamp="1579442429678">
+      <screen x="0" y="0" width="1600" height="866" />
+    </state>
+    <state width="811" height="190" key="GridCell.Tab.0.bottom/0.0.1600.866@0.0.1600.866" timestamp="1579442429678" />
+    <state width="811" height="190" key="GridCell.Tab.0.center" timestamp="1579442429677">
+      <screen x="0" y="0" width="1600" height="866" />
+    </state>
+    <state width="811" height="190" key="GridCell.Tab.0.center/0.0.1600.866@0.0.1600.866" timestamp="1579442429677" />
+    <state width="811" height="190" key="GridCell.Tab.0.left" timestamp="1579442429677">
+      <screen x="0" y="0" width="1600" height="866" />
+    </state>
+    <state width="811" height="190" key="GridCell.Tab.0.left/0.0.1600.866@0.0.1600.866" timestamp="1579442429677" />
+    <state width="811" height="190" key="GridCell.Tab.0.right" timestamp="1579442429678">
+      <screen x="0" y="0" width="1600" height="866" />
+    </state>
+    <state width="811" height="190" key="GridCell.Tab.0.right/0.0.1600.866@0.0.1600.866" timestamp="1579442429678" />
+    <state x="218" y="9" width="1372" height="854" key="new project wizard" timestamp="1579442428074">
+      <screen x="0" y="0" width="1600" height="866" />
+    </state>
+    <state x="218" y="9" width="1372" height="854" key="new project wizard/0.0.1600.866@0.0.1600.866" timestamp="1579442428074" />
   </component>
 </project>
